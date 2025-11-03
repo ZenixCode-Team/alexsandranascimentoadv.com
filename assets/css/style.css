@@ -74,6 +74,12 @@ header {
   font-size: 2.8rem;
 }
 
+.header-title img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 .midias {
   display: flex;
   gap: 0.5rem;
