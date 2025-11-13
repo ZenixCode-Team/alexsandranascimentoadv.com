@@ -47,7 +47,13 @@ ScrollReveal().reveal('#subtitle', {
 ScrollReveal().reveal('.btn-contato', {
     origin: 'left',
     duration: 2500,
-    distance: '200px', });    
+    distance: '200px', });
+
+ScrollReveal().reveal('.btn-whatsapp-hero', {
+    origin: 'bottom',
+    duration: 2500,
+    distance: '50px',
+    delay: 300 });    
 
 ScrollReveal().reveal('.foto-perfil', {
     origin: 'left',
