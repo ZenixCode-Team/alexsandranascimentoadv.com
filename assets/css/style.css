@@ -447,7 +447,7 @@ footer::before {
   max-width: 1200px;
   margin: 0 auto;
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 3rem;
   padding: 0 2rem;
 }
